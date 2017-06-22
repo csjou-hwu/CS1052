@@ -1,0 +1,45 @@
+﻿<Window x:Class="Wk151.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:h="http://helixtoolkit.codeplex.com"
+        Title="MainWindow" Height="350" Width="525">
+    <TabControl>
+        <TabItem Header="Default lights">
+            <Grid>
+                <h:HelixViewport3D>
+                    <h:DefaultLights ShowLights="True"/>
+                    <h:RectangleVisual3D DivWidth="80" DivLength="60" BackMaterial="{h:Material Red, Opacity=0.1}" />
+                    <h:Teapot/>
+                </h:HelixViewport3D>
+
+            </Grid>
+        </TabItem>
+        <TabItem Header="ThreePointLights">
+            <Grid>
+                <h:HelixViewport3D>
+                    <h:ThreePointLights ShowLights="True"/>
+                    <h:RectangleVisual3D DivWidth="80" DivLength="80" BackMaterial="{h:Material Green}"/>
+                    <h:Teapot/>
+                </h:HelixViewport3D>
+            </Grid>
+        </TabItem>
+        <TabItem Header="SunLight">
+            <Grid>
+                <h:HelixViewport3D>
+                    <h:SunLight ShowLights="True"/>
+                    <h:RectangleVisual3D DivWidth="80" DivLength="80" BackMaterial="{h:Material Green}"/>
+                    <h:Teapot/>
+                </h:HelixViewport3D>
+            </Grid>
+        </TabItem>
+        <TabItem Header="Headlight">
+            <Grid>
+                <h:HelixViewport3D IsHeadLightEnabled="True"  >
+                   
+                    <h:RectangleVisual3D DivWidth="80" DivLength="80" BackMaterial="{h:Material Green}"/>
+                    <h:Teapot/>
+                </h:HelixViewport3D>
+            </Grid>
+        </TabItem>
+    </TabControl>
+</Window>

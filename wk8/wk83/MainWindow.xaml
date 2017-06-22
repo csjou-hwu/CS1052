@@ -1,0 +1,13 @@
+﻿<Window x:Class="wk83.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <MediaElement Height="198" HorizontalAlignment="Left" Margin="21,14,0,0" Name="影片" VerticalAlignment="Top" Width="470" Source="C:\Users\Public\Videos\Sample Videos\Wildlife.wmv" LoadedBehavior="Manual" />
+        <Button Height="23" HorizontalAlignment="Left" Margin="30,230,0,0" Name="撥放" VerticalAlignment="Top" Width="75" Content="撥放" Click="撥放_Click" />
+        <Button Height="23" HorizontalAlignment="Left" Margin="121,230,0,0" Name="暫停" VerticalAlignment="Top" Width="75" Content="暫停" Click="暫停_Click" />
+        <Button Height="23" HorizontalAlignment="Left" Margin="218,230,0,0" Name="停止" VerticalAlignment="Top" Width="75" Content="停止" Click="停止_Click" />
+        <Button Height="23" HorizontalAlignment="Left" Margin="299,230,0,0" Name="繼續" VerticalAlignment="Top" Width="75" Content="繼續" Click="繼續_Click" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="39,265,0,0" Name="音量" VerticalAlignment="Top" Width="335" Maximum="1" Minimum="0" Value="0.5" ValueChanged="音量_ValueChanged" />
+    </Grid>
+</Window>

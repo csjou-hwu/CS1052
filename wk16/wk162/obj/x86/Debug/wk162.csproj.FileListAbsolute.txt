@@ -1,0 +1,12 @@
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\bin\Debug\wk162.exe
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\bin\Debug\wk162.pdb
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\obj\x86\Debug\App.g.cs
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\obj\x86\Debug\wk162_MarkupCompile.cache
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\obj\x86\Debug\wk162.g.resources
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\obj\x86\Debug\wk162.Properties.Resources.resources
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\obj\x86\Debug\wk162.csproj.GenerateResource.Cache
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\obj\x86\Debug\wk162.exe
+C:\Users\User\Documents\BackgroundRemovalBasics-WPF\wk162\obj\x86\Debug\wk162.pdb

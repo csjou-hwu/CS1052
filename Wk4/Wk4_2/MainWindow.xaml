@@ -1,0 +1,9 @@
+﻿<Window x:Class="Wk4_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:l="clr-namespace:Wk4_2"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Name="G1" >
+        <!--<l:UserControl1 Margin="-148,-54,148,54" />-->
+    </Grid>
+</Window>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Wk4_5.exe" version="1.0.0.0" publicKeyToken="7611b68ef8306354" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Wk4_5" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Wk4_5.exe" parameters="" />
+    <hostInBrowser xmlns="urn:schemas-microsoft-com:asm.v3" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="Internet" Description="Default rights given to Internet applications" ID="Custom" SameSite="site">
+          <IPermission version="1" class="System.Security.Permissions.FileDialogPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Access="Open" />
+          <IPermission UserQuota="1024000" version="1" class="System.Security.Permissions.IsolatedStorageFilePermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Allowed="ApplicationIsolationByUser" />
+          <IPermission version="1" class="System.Security.Permissions.SecurityPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Flags="Execution" />
+          <IPermission version="1" class="System.Security.Permissions.UIPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Clipboard="OwnClipboard" Window="SafeTopLevelWindows" />
+          <IPermission version="1" class="System.Drawing.Printing.PrintingPermission, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Level="SafePrinting" />
+          <IPermission version="1" class="System.Security.Permissions.MediaPermission, WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Audio="SafeAudio" Image="SafeImage" Video="SafeVideo" />
+          <IPermission version="1" class="System.Security.Permissions.WebBrowserPermission, WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Level="Safe" />
+        </PermissionSet>
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC 資訊清單選項
+             如果要變更 Windows 使用者帳戶控制層級，請將
+            requestedExecutionLevel 節點以下列其中之一取代。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            如果您要針對回溯相容性使用檔案及登錄虛擬化，
+            請刪除 requestedExecutionLevel 節點。
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wk4_5.exe" size="7680">
+      <assemblyIdentity name="Wk4_5" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ZS13W68OuZjnaDLH/y3HJWk1EQ8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=I302-TEACHER\User" issuerKeyHash="782ab41a1b5ccb17eed00423fb61e36a57e45a38" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>6U5gNbkFeSnFeHieehyshH+qvI8=</DigestValue></Reference></SignedInfo><SignatureValue>m9ZswQ3rzZcLu7sl/iMK77cIKOAVP/XZRr+JLWSLAb/gkZKuBsfazlt2rhB3CXziMLy+fePE9bjUucjzitXxhsHYkaZBkdoAXp9QR2jGtcqoJ/NnPZa2CA5xRRYpxYZUxLWxTQJWff2j0m5wY64lJTcvQpbSzYj2nWS6LlgzLDw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>p0D7+YSUi1+q7hpXQYe0mgb53i+HjgN1cUwCDHzu7uuITYWm/P35Y2bzzVbQH1QBVOm7KE/P5nA2kDVafmkh6Cj3lvyFdSD1NhM9HVBavZRM6HbYsKYSf2S7qjecOL95YaTew6SzQP1MxI0KnADc0l4mjuD5J6oF5ZTtB5cmxxc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8fbcaa7f84ac1c7a9e7878c5297905b935604ee9" Description="" Url=""><as:assemblyIdentity name="Wk4_5.exe" version="1.0.0.0" publicKeyToken="7611b68ef8306354" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=I302-TEACHER\User</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Ta4lbUF/u4Jq/arOVCgPgo55ow4=</DigestValue></Reference></SignedInfo><SignatureValue>ZHLCti7O56szJfYso3J6QcDaSCsTRWXCwMKIeVLby+0/TOQHKjZbLArBeN6F+t9HFLqlK2IdKn/lq37+KV6ueIFuezHzvs2VaPoj/OCZyzZzedTQxmDRXST1OLAgRJx0qI6TjL4d5NkioH5SG6evjF+OXYMOWIgDzjiXG6N+os4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>p0D7+YSUi1+q7hpXQYe0mgb53i+HjgN1cUwCDHzu7uuITYWm/P35Y2bzzVbQH1QBVOm7KE/P5nA2kDVafmkh6Cj3lvyFdSD1NhM9HVBavZRM6HbYsKYSf2S7qjecOL95YaTew6SzQP1MxI0KnADc0l4mjuD5J6oF5ZTtB5cmxxc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQIzTi5ulCW4lBxmtsjpfXVjANBgkqhkiG9w0BAQUFADAtMSswKQYDVQQDHiIASQAzADAAMgAtAFQARQBBAEMASABFAFIAXABVAHMAZQByMB4XDTE3MDMyMzA3NDMyN1oXDTE4MDMyMzEzNDMyN1owLTErMCkGA1UEAx4iAEkAMwAwADIALQBUAEUAQQBDAEgARQBSAFwAVQBzAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAp0D7+YSUi1+q7hpXQYe0mgb53i+HjgN1cUwCDHzu7uuITYWm/P35Y2bzzVbQH1QBVOm7KE/P5nA2kDVafmkh6Cj3lvyFdSD1NhM9HVBavZRM6HbYsKYSf2S7qjecOL95YaTew6SzQP1MxI0KnADc0l4mjuD5J6oF5ZTtB5cmxxcCAwEAATANBgkqhkiG9w0BAQUFAAOBgQB4rXBN+0ix01QiYpuoF28M0eJIlA16l5V9d3mezqjhGPr8BnV2lLwv+zVedGK8ZJRalAQ6NpDVGwlIZX/rnBDvyzn6vZPqMMMqLigqS7tsotGEy9xGbqu/xyosWRyfZaNpBph6XP5a/okrVHgAo4jmMuQEFdy5TVGR+146Sjk6ug==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

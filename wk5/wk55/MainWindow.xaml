@@ -1,0 +1,9 @@
+﻿<Window x:Class="wk55.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Image gif:ImageBehavior.AnimatedSource="C:\Users\User\Documents\Visual Studio 2010\Projects\wk5\stickman.gif" />
+    </Grid>
+</Window>

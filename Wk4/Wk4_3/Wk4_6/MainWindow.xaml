@@ -1,0 +1,9 @@
+﻿<Window x:Class="Wk4_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:l="clr-namespace:Wk4_6"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Background="Pink">
+        <l:UserControl1/>
+    </Grid>
+</Window>

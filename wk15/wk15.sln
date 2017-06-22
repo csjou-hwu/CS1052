@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightsDemo", "LightsDemo\LightsDemo.csproj", "{1354B73B-2778-48D4-88E4-6C68538186C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wk151", "Wk151\Wk151.csproj", "{A2E3AB19-8787-4238-9D37-1907B17209A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1354B73B-2778-48D4-88E4-6C68538186C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1354B73B-2778-48D4-88E4-6C68538186C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1354B73B-2778-48D4-88E4-6C68538186C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1354B73B-2778-48D4-88E4-6C68538186C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E3AB19-8787-4238-9D37-1907B17209A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E3AB19-8787-4238-9D37-1907B17209A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E3AB19-8787-4238-9D37-1907B17209A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E3AB19-8787-4238-9D37-1907B17209A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
