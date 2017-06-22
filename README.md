@@ -38,6 +38,84 @@ https://msdn.microsoft.com/zh-tw/library/ms746916(v=vs.110).aspx
 5-3 gif + Translation animation
 
 ### Wk6
+6-1 聲音控制(SpeechBasics-WPF)
+6-2 WPF 3D 繪圖1
+https://www.tutorialspoint.com/wpf/wpf_3d_graphics.htm
+6-3 WPF 3D 繪圖2
+https://msdn.microsoft.com/zh-TW/library/ms747437(v=vs.110).aspx
+
+### Wk7
+7-1 WPF 3D 旋轉動畫
+https://msdn.microsoft.com/zh-tw/library/ms752064(v=vs.110).aspx
+7-2 WPF 3D Model
+http://www.okino.com/conv/exp_xaml2.htm
+
+### Wk8
+8-1. WPF Video
+http://www.wpf-tutorial.com/audio-video/playing-video/
+8-2 1-8週複習
+
+### wk9
+9-1. 主控台應用程式範本，建置有命令按鈕的WPF程式。
+9-2. 以WPFAnimatedGIF(https://github.com/XamlAnimatedGif/WpfAnimatedGif)配合GIF物件平移座標動畫(DoubleAnimation)建立火柴人(Stickman)動畫
+9-3. 以WPF建置3D案例，以滑鼠滾輪(MouseWheel)事件控制相機與物件距離程式。
+9-4. 以WPF建置3D平面螢幕，內嵌野生動物影片，以滑鼠滾輪(MouseWheel)事件控制螢幕繞垂直軸旋轉程式。
+
+### Wk10
+10-1. WPF 3D 座標轉換群組
+https://msdn.microsoft.com/zh-TW/library/ms752358(v=vs.100).aspx
+10-2. WPF動畫(C# vs XAML)
+https://msdn.microsoft.com/en-us/library/ms752312(v=vs.110).aspx
+10-3. WPF 3D 程式庫
+https://github.com/helix-toolkit/helix-toolkit
+
+
+### Wk11
+11-1. WPF 聲控 3D 
+https://github.com/helix-toolkit/helix-toolkit/tree/develop/Source/Examples/WPF/ExampleBrowser/Examples/Audio
+下載 nuget tool for VS 2010
+安裝 nuget tool 
+Close VS 2010
+Open VS2010
+New wk111 Project
+Download Helixtoolkit.wpf dll
+
+### Wk12
+12-1 2D GIF 動畫
+12-2 WPF 3D 旗正飄飄
+https://github.com/helix-toolkit/helix-toolkit/tree/develop/Source/Examples/WPF/ExampleBrowser/Examples/Cloth
+
+### Wk13
+13-1. 聲音控制(Kinect SDK) + 3D
+
+### Wk14
+14-1. 立體顯示
+https://github.com/helix-toolkit/helix-toolkit/tree/develop/Source/Examples/WPF/ExampleBrowser/Examples/Anaglyph
+
+### Wk15
+15-1. 聲音控制(Kinect SDK) + 3D
+15-2. 立體光源特性
+https://github.com/helix-toolkit/helix-toolkit/tree/develop/Source/Examples/WPF/ExampleBrowser/Examples/Lights
+2-1 Default light
+2-2 Three-Point Light
+2-3 SunLight
+
+### Wk16
+16-1. 立體透明特性
+https://github.com/helix-toolkit/helix-toolkit/tree/develop/Source/Examples/WPF/ExampleBrowser/Examples/Transparency
+16-2. Kinect 去背案例
+16-3. 去背平面影像+3D場景
+16-4. 學習筆記整理
+
+### Wk17
+17-1. 去背平面影像+2D組合
+https://drive.google.com/open?id=0BwPc9tC5TujJeGVPWXFXSFhabGs
+17-2. 去背平面影像+3D組合
+https://drive.google.com/a/mail.hwu.edu.tw/file/d/0BwPc9tC5TujJMFZKMXMzQURQOGs/view?usp=sharing
+
+
+
+
 
 
 
