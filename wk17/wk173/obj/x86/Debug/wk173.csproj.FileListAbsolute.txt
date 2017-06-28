@@ -1,0 +1,12 @@
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\obj\x86\Debug\App.g.cs
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\obj\x86\Debug\wk173_MarkupCompile.cache
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\bin\Debug\wk173.exe
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\bin\Debug\wk173.pdb
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\bin\Debug\HelixToolkit.Wpf.dll
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\obj\x86\Debug\MainWindow.baml
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\obj\x86\Debug\MainWindow.g.cs
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\obj\x86\Debug\wk173.g.resources
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\obj\x86\Debug\wk173.Properties.Resources.resources
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\obj\x86\Debug\wk173.csproj.GenerateResource.Cache
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\obj\x86\Debug\wk173.exe
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk173\obj\x86\Debug\wk173.pdb

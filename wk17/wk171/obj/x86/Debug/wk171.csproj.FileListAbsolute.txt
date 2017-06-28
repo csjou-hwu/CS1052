@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\bin\Debug\wk171.exe
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\bin\Debug\wk171.pdb
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\obj\x86\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\obj\x86\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\obj\x86\Debug\App.g.cs
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\obj\x86\Debug\wk171_MarkupCompile.cache
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\obj\x86\Debug\wk171.g.resources
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\obj\x86\Debug\wk171.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\obj\x86\Debug\wk171.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\obj\x86\Debug\wk171.exe
+c:\users\user\documents\visual studio 2010\Projects\wk17\wk171\obj\x86\Debug\wk171.pdb
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk171\bin\Debug\KinectBackgroundRemoval180_32.dll
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk171\bin\Debug\KinectBackgroundRemoval180_64.dll
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk171\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk171\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\Users\User\Documents\Visual Studio 2010\Projects\wk17\wk171\obj\x86\Debug\wk171_Content.g.cs
