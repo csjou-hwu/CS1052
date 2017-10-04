@@ -1,18 +1,18 @@
 # CS1052
 ### Wk1
-1. 跨平台mono安裝
-2. mono Hello world
-3. Visual studio 2010 Hello world
-3-1 Console mode
-3-2 Form
-3-4 WPF
-3-4 Webform
+1. 跨平台mono安裝<br/>
+2. mono Hello world<br/>
+3. Visual studio 2010 Hello world<br/>
+3-1 Console mode<br/>
+3-2 Form<br/>
+3-4 WPF<br/>
+3-4 Webform<br/>
 
 ### Wk2
-2-1 主控台範本建置WinForm應用程式
-2-2 主控台範本建置WPF應用程式
-2-3 WPF XAML/CS 加入控制項(Button)
-2-4 Image
+2-1 主控台範本建置WinForm應用程式<br/>
+2-2 主控台範本建置WPF應用程式<br/>
+2-3 WPF XAML/CS 加入控制項(Button)<br/>
+2-4 Image<br/>
 
 ### Wk3
 3-1 WPF 2D 圖形
